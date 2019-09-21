@@ -16,3 +16,36 @@
 
 # Flag Format
 ```3301{*}```
+
+# Challenges
+```
+Forensics:
+(HimanshuKr000) LSB
+(HimanshuKr000) Qr-gif
+(HimanshuKr000) Thanosaurus
+(ankurdubey521) Spectrogram
+
+Crypto:
+(HimanshuKr000) Gams_of_Bases
+(HimanshuKr000) ROTten
+
+Web:
+(HimanshuKr000) GET2POST
+(HimanshuKr000) Morse
+(HimanshuKr000) UserAgent
+
+Programming:
+(ankurdubey521) XOR-BASE64-C++
+
+Trivia:
+
+
+PWN:
+
+
+Misc:
+(HimanshuKr000) Bin
+(HimanshuKr000) Cowsay
+(HimanshuKr000) KeypadCipher
+(ankurdubey521) GIT GUD
+(kushrike) ROCKYOU buyyouadrink.zip```
