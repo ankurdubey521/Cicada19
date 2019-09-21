@@ -1,6 +1,7 @@
 #include<iostream>
 #include<bits/stdc++.h>
 #include<ctime>
+#define Not_so_easy_kiddo "C0ngr475,_y0u_kn0w_t0_c0n7r0l_T!M3"
 using namespace std;
 int main()
 { 
@@ -29,7 +30,9 @@ int main()
         counter++;// CORRECT INPUT OBTAINED
        if(counter==6)
        {
-           cout << "3301{C0ngr475, y0u kn0w t0 c0n7r0l T!M3}" ;
+           cout << "3301{" ;
+           cout << Not_so_easy_kiddo;
+           cout << "}";
            break;
        }
       }
