@@ -24,6 +24,9 @@ Forensics:
 (HimanshuKr000) Qr-gif
 (HimanshuKr000) Thanosaurus
 (ankurdubey521) Spectrogram
+(ASBais29) IamIronMan
+(ASBais29) Still Drax
+(kushrike) COS
 
 Crypto:
 (HimanshuKr000) Gams_of_Bases
@@ -31,11 +34,13 @@ Crypto:
 (HimanshuKr000) Morse
 (eskimo-01) Thanos_Poly_Message
 (ankurdubey521) RSA
+(asad1751) Et Tu Brute?
 
 
 Web:
 (HimanshuKr000) GET2POST
 (HimanshuKr000) UserAgent
+(HimanshuKr000) SQLi
 
 Programming:
 (ankurdubey521) XOR-BASE64-C++
@@ -53,4 +58,8 @@ Misc:
 (ankurdubey521) GIT GUD
 (scheleon) Find_Thanos
 (kushrike) ROCKYOU buyyouadrink.zip
+(jhashashank07) wipe_out_the_army
+(ASBais29) Warm Up Fellas
+(ASBais29) The Last One Standing
 ```
+
