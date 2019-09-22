@@ -51,5 +51,6 @@ Misc:
 (HimanshuKr000) Cowsay
 (HimanshuKr000) KeypadCipher
 (ankurdubey521) GIT GUD
+(scheleon) Find_Thanos
 (kushrike) ROCKYOU buyyouadrink.zip
 ```
