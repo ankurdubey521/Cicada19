@@ -1,12 +1,12 @@
 #include<iostream>
 #include<bits/stdc++.h>
 #include<ctime>
-#define Not_so_easy_kiddo "C0ngr475,_y0u_kn0w_t0_c0n7r0l_T!M3"
 using namespace std;
 int main()
 { 
     srand(time(0));
     int a,b,c;
+    string t="D7i`u302+X~7rXli7pXohpXs7Xd7i0u7kXS&J4";//Flag XORed with 7
     int counter=0;// STORES THE NUMBER OF CONSECUTIVE CORRECT INPUTS
     clock_t start=clock();
     while(true)
@@ -20,6 +20,7 @@ int main()
    // c is biggest integer
 
     int in;
+    
     cin >> in;
     // CALCULATE THE COSINE VALUE
    int cos=floor((((b*b)+(a*a)-(c*c))/(1.00*2*a*b))*100);
@@ -30,9 +31,10 @@ int main()
         counter++;// CORRECT INPUT OBTAINED
        if(counter==6)
        {
-           cout << "3301{" ;
-           cout << Not_so_easy_kiddo;
-           cout << "}";
+           cout << "3301{";
+           for(int i=0;i<t.size();i++)
+            cout << char(t[i]^7);
+            cout << "}";
            break;
        }
       }
