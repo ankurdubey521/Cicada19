@@ -24,7 +24,7 @@ Forensics:
 (HimanshuKr000) Qr-gif
 (HimanshuKr000) Thanosaurus
 (ankurdubey521) Spectrogram
-(ASBais29) IamIronMan
+(ASBais29) Drax Ebony Starlord
 (ASBais29) Still Drax
 (kushrike) COS
 
