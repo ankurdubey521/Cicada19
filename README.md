@@ -26,6 +26,7 @@ Forensics:
 (ankurdubey521) Spectrogram
 (ASBais29) IamIronMan
 (ASBais29) Still Drax
+(kushrike) COS
 
 Crypto:
 (HimanshuKr000) Gams_of_Bases
