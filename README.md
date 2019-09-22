@@ -36,6 +36,7 @@ Crypto:
 Web:
 (HimanshuKr000) GET2POST
 (HimanshuKr000) UserAgent
+(HimanshuKr000) SQLi
 
 Programming:
 (ankurdubey521) XOR-BASE64-C++
