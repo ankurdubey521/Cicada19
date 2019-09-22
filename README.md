@@ -24,6 +24,7 @@ Forensics:
 (HimanshuKr000) Qr-gif
 (HimanshuKr000) Thanosaurus
 (ankurdubey521) Spectrogram
+(jhashashank07) wipe_out_the_army
 
 Crypto:
 (HimanshuKr000) Gams_of_Bases
