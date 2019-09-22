@@ -24,6 +24,8 @@ Forensics:
 (HimanshuKr000) Qr-gif
 (HimanshuKr000) Thanosaurus
 (ankurdubey521) Spectrogram
+(ASBais29) IamIronMan
+(ASBais29) Still Drax
 
 Crypto:
 (HimanshuKr000) Gams_of_Bases
@@ -57,3 +59,5 @@ Misc:
 (kushrike) ROCKYOU buyyouadrink.zip
 (jhashashank07) wipe_out_the_army
 ```
+(ASBais29) Warm Up Fellas
+(ASBais29) The Last One Standing
