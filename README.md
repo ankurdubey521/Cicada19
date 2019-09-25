@@ -35,6 +35,7 @@ Crypto:
 (eskimo-01) Thanos_Poly_Message
 (ankurdubey521) RSA
 (asad1751) Et Tu Brute?
+(LoneWolfKJ) asciivalues?
 
 
 Web:
@@ -61,5 +62,6 @@ Misc:
 (jhashashank07) wipe_out_the_army
 (ASBais29) Warm Up Fellas
 (ASBais29) The Last One Standing
+(LoneWolfKJ) Programminglang
 ```
 
