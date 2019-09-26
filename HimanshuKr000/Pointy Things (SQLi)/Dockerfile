@@ -10,6 +10,7 @@ RUN apt-get -y update && apt-get install -y apache2 apache2-doc apache2-utils my
 #set up files
 COPY index.html /var/www/html/
 COPY login.php /var/www/html/web/
+RUN chmod a+rwx /var/www/html/web/login.php
 #COPY logo.png /var/www/html/images/
 COPY db_gen.sh /db_gen.sh
 
