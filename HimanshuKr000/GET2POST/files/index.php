@@ -1,8 +1,8 @@
 <body>
 <h1 style="color: green;">Welcome to the Dungeon</h1>
-<p>We know It's your First time so PRESS it with care</p>
+<p>We know It's your First time so POST it with care</p>
 <form action="" method="get">
-	<input type="submit" name="button" value="Change me to Something more relevant" />
+	<input type="submit" name="button" value="I'll Give you what you seek" />
 </form>
 </body>
 
