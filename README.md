@@ -1,3 +1,6 @@
+# Challenge Description and Locations
+https://1drv.ms/w/s!Ao6g7VH9tnVChWT8hniTm_qBBOTo
+
 # Categories
 
 6 categories 5-6 challenges each
