@@ -36,6 +36,8 @@ Crypto:
 (ankurdubey521) RSA
 (asad1751) Et Tu Brute?
 (LoneWolfKJ) asciivalues?
+(ankurdubey521) XOR-BASE64-C++
+
 
 
 Web:
@@ -43,8 +45,6 @@ Web:
 (HimanshuKr000) UserAgent
 (HimanshuKr000) SQLi
 
-Programming:
-(ankurdubey521) XOR-BASE64-C++
 
 Trivia:
 
