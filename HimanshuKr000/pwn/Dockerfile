@@ -6,7 +6,7 @@ RUN apt --assume-yes install socat build-essential libc6:i386 libncurses5:i386 l
 RUN useradd -m pwn0
 WORKDIR /home/pwn0
 RUN chown -R root:pwn0 /home/pwn0
-RUN chmod -R 755 /home/pwn0
+RUN chmod 755 -R /home/pwn0
 COPY flag.txt pwn0 /home/pwn0/
 CMD su pwn0 -c "socat -T10 TCP-LISTEN:4444,reuseaddr,fork EXEC:/home/pwn0/pwn0"
 EXPOSE 4444
