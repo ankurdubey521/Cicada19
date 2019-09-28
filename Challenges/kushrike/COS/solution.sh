@@ -1,0 +1,1 @@
+dpipe ./cicada.out = ./sol.out

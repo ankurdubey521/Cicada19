@@ -1,0 +1,1 @@
+apache2 -D FOREGROUND

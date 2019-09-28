@@ -1,0 +1,2 @@
+docker run --cpus=".1" --memory="120m" --name get2post -p18000:80 get2post &
+
